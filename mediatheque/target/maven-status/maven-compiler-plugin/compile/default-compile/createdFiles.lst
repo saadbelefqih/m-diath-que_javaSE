@@ -1,0 +1,15 @@
+model/Document.class
+model/Etudiant.class
+model/Consultation.class
+model/Kindel.class
+model/Emprunt.class
+CRUD_Emprunt.class
+model/Gerant.class
+model/Livre.class
+Mediatheque.class
+CRUD_Client.class
+CRUD_Document.class
+CRUD_Kindel.class
+model/Professeur.class
+model/Client.class
+model/Utilisateur.class
